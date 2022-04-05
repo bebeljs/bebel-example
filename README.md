@@ -297,10 +297,10 @@ $ npm install bebel
   To view the examples, clone the bebel-exemple repo and install the dependencies:
 
 ```bash
-$ git clone https://github.com/bebeljs/bebel.git
-$ cd bebel
+$ git clone https://github.com/bebeljs/bebel-example.git
+$ cd bebel-example
 $ npm install
-$ npm run example
+$ npm run myapi
 ```
 View the website at: http://localhost:8000
 
