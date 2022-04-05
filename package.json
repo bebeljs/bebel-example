@@ -1,0 +1,23 @@
+{
+  "name": "bebel-example",
+  "dependencies": {
+    "bebel": "^1.1.5"
+  },
+  "scripts": {
+    "myapi": "node index.js"
+  },
+  "author": {
+    "name": "Julien Arlandis",
+    "email": "julien@3dmap.fr"
+  },
+  "keywords": [
+    "api",
+    "json",
+    "rest",
+    "graphQL",
+    "http",
+    "web",
+    "framework"
+  ],
+  "version": "0.1.0"
+}
