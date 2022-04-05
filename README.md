@@ -300,7 +300,7 @@ $ npm install bebel
 $ git clone https://github.com/bebeljs/bebel-example.git
 $ cd bebel-example
 $ npm install
-$ npm run myapi
+$ npm run example
 ```
 View the website at: http://localhost:8000
 
